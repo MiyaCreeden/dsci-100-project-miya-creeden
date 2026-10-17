@@ -1,1 +1,5 @@
 Rough work goes here 
+
+For part 3 the columns i want include: seed, reg_wins_pct, total_wins_pct, school and tourney_finish first lets just select those
+
+We should try and drop anyone who didnt make it to the tournament
